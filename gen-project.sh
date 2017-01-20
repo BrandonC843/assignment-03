@@ -1,4 +1,4 @@
-mkdir $1
+$1 mkdir
 cd $1
 mkdir css js images
 touch index.html
